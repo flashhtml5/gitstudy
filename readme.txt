@@ -6,3 +6,5 @@ git tracks "changes"
 
 
 Creating a new branch is quick.
+
+I will go to school!
