@@ -7,4 +7,6 @@ git tracks "changes"
 
 Creating a new branch is quick.
 
-I will go to school!
+
+I will go to school! and I love zhou
+
